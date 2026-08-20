@@ -8,6 +8,10 @@ rgs = {
     name = "rg-bappa"
     location = "eastus"
   }
+  rg3 = {
+    name = "rg-takla"
+    location = "eastus"
+  }
 }
 
 virtual_network = {
